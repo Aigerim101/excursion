@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video {
+  width: 80%;
+  max-width: 600px;
+}
+
+img {
+  width: 80%;
+  max-width: 600px;
+}
